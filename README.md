@@ -787,7 +787,7 @@ python3 -m http.server # for python 3+
 ## MSP 12 - Prepare Continuous Integration (CI) Pipeline
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-* Create `feature/msp-13` branch from `dev`.
+* Create `feature/msp-12` branch from `dev`.
 
 ``` bash
 git checkout dev
