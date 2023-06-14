@@ -3241,7 +3241,7 @@ kubectl create namespace cattle-system
 ```bash
 helm install rancher rancher-latest/rancher \
   --namespace cattle-system \
-  --set hostname=rancher.clarusway.us \    # Change DNS name
+  --set hostname=rancher.admaydn.com \   
   --set tls=external \
   --set replicas=1 \
   --set global.cattle.psp.enabled=false
